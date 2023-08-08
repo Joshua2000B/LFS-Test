@@ -1,0 +1,2 @@
+itrace_core.xml filter=lfs diff=lfs merge=lfs -text
+npp_pos.xml filter=lfs diff=lfs merge=lfs -text
